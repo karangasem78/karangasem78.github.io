@@ -149,13 +149,14 @@ ul {
 }
 
 .copyright {
-  background-color: aquamarine;
+  background-color: white;
   position: absolute;
   bottom: 0;
   position:relative;
   border:0px;
   padding-top: 40;
   padding-bottom: 20;
+  color: black;
 }
 
 .btn-seemore{
